@@ -1,0 +1,9 @@
+JavaScript is as scripting language critical to the function of the modern internet.
+
+By virtue of being a scripting language, JS is not compiled, nor run in the traditional
+Sense, but is interpreted and run in a browser environment. JavaScript serves to allow users to interact
+With web pages beyond the static limits of HTML.
+
+JavaScript is an Object Oriented language, meaning the structure of
+Functions and operations is built around referencing objects and their 
+Methods, in a similar manner to Java.
